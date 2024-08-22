@@ -32,5 +32,8 @@ The dashboard provides a comprehensive analysis of Nobel Prize trends over the y
 
 ### Conclusion:
 The data reveals a significant concentration of Nobel Prizes in countries like the United States, the United Kingdom, and Germany, particularly in the fields of Medicine, Physics, and Chemistry. The trends over the years suggest that certain countries have consistently produced Nobel laureates, likely due to strong educational and research institutions. The fluctuations in prize distribution across different categories and years also underscore the evolving nature of scientific and cultural achievements that are recognized by the Nobel Committee. This dashboard serves as a valuable tool for understanding the global impact and historical significance of the Nobel Prizes.
+if you like my work , im  available and interested more to work and you can contact me via 
+https://www.linkedin.com/in/satwik-mantha-b038a02bb?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+
 
 this dashboard 
